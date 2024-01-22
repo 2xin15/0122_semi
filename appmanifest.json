@@ -1,0 +1,16 @@
+{
+	"name": "半導體製程教學系統",
+	"short_name": "半導體製程教學系統",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "546x443",
+			"type": "image/png"
+		}
+	]
+}
